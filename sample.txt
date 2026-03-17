@@ -1,0 +1,17 @@
+This is a sample document for the AI Assistant project.
+
+The project uses Endee vector database for storing embeddings.
+
+Retrieval Augmented Generation (RAG) is implemented to provide accurate answers.
+
+The system supports multi-document querying and source attribution.
+
+Key features include modular design, clean architecture, and beginner-friendly implementation.
+
+The backend is built with Flask, and the frontend uses HTML, CSS, and JavaScript.
+
+Embeddings are generated using sentence-transformers.
+
+Similarity search is performed using cosine similarity in the mock implementation.
+
+The application can be extended to use real Endee server and OpenAI API for production use.
