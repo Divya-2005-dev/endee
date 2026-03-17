@@ -267,10 +267,6 @@ For support and questions:
 - Review the API documentation
 
 ---
-
-<div align="center">
-  <p><strong>Built with ❤️ using cutting-edge AI technology</strong></p>
-  <p><a href="https://github.com/endee-io/endee">⭐ Star Endee on GitHub</a></p>
 </div>
 - **Intelligent RAG Pipeline**: Combines retrieval and generation for accurate answers
 - **Source Attribution**: Every answer includes document source and page references
