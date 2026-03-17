@@ -493,10 +493,6 @@ your-endee-fork/
 └── ...                    # Other Endee files
 ```
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - **Endee Team**: For the excellent vector database
@@ -508,18 +504,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Issues**: [GitHub Issues](https://github.com/your-username/ai-assistant-endee/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/your-username/ai-assistant-endee/discussions)
-- **Endee Community**: [Discord](https://discord.gg/5HFGqDZQE3)
-
----
-
-<div align="center">
-  <p><strong>Built with ❤️ for the future of AI-powered document intelligence</strong></p>
-  <p>⭐ Star this repository if you find it useful!</p>
-</div>
-
-## 🎯 Hiring Criteria Compliance
-
-This project is designed to excel in **Endee Vector Database** hiring evaluations:
 
 ### ✅ Mandatory Requirements Met
 
@@ -547,7 +531,7 @@ This project is designed to excel in **Endee Vector Database** hiring evaluation
 - **Extensible Architecture**: Easy to add new features and integrations
 - **Professional Presentation**: Enterprise-grade UI and documentation
 
-### 🏆 Why This Project Wins
+###  Why This Project Wins
 
 1. **Technical Excellence**: Demonstrates deep understanding of vector databases and AI
 2. **Complete Solution**: End-to-end working system with all components
@@ -555,4 +539,3 @@ This project is designed to excel in **Endee Vector Database** hiring evaluation
 4. **Production Ready**: Includes error handling, logging, and scalability
 5. **User-Centric Design**: Intuitive interface with professional UX
 
-**This project showcases the skills of a senior AI/ML engineer ready for production deployment.**
